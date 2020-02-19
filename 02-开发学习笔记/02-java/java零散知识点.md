@@ -39,6 +39,8 @@ public Date()
 
 **<font color = gree>因为list添加的是对象的引用，Test只被new了一次然后不断被赋值</font>**
 
+关于java的栈、堆、方法区：
+
 ![image-20200213155348138](/Users/baola/Library/Application%20Support/typora-user-images/image-20200213155348138.png)
 
 

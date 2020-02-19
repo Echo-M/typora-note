@@ -22,13 +22,15 @@ git config --global user.email “youremail”
 
 
 
-检查是否成功：**
+**检查是否成功：**
 
 git --version
 
 **参考：**https://www.atatech.org/articles/117205
 
 ### aone上git的使用
+
+[玩转Gitlab--玩转http协议](https://www.atatech.org/articles/40157?spm=ata.13269325.0.0.3b1e49faDpJWsJ)
 
 **设置密钥，配置gitlab**
 
@@ -44,7 +46,7 @@ cat ~/.ssh/id_rsa.pub
 
 成功之后如下图所示
 
-![image-20191015140324673](/Users/baola/Library/Application Support/typora-user-images/image-20191015140324673.png)
+![image-20200219161137971](git命令学习.assets/image-20200219161137971.png)
 
 ### 申请代码库权限
 
